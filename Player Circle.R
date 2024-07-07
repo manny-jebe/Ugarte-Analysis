@@ -12,7 +12,7 @@ library(ggtext)
 library(ggplot2)
 
 # loading data for top seven leagues
-top7 <- read.csv("~/data scouting/Top7_CleanData.csv")
+top7 <- read.csv("Top7_CleanData.csv")
 
 target <- "Manuel Ugarte Ribeiro"
 # player pizza
